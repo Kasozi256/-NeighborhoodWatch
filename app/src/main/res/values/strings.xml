@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NeighborhoodWatch</string>
+    <string name="category_prompt">Category</string>
+
+    <string-array name="category_arrays">
+        <item>Accident</item>
+        <item>Robbery</item>
+        <item>Pregnancy</item>
+        <item>Mudder</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
